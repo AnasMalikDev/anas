@@ -1,0 +1,2 @@
+
+{ ver1 : 1 ,  ver2 : 10 ,  ver3 : \nرسالة مهمة يجب قرائتها\nيرجى منك تحديث واتساب الأعمال قبل انتهاء هذا الاصدار\nقم بالضغط على تنزيل ليتم توجيهك الى رابط التحميل\nImportant message to read \nPlease update WA Business before the end of this version\nClick on download to be directed to the download link\n  ,  dli : https://www.nmwhats.app/2023/04/whatsapp-business-gold.html }
