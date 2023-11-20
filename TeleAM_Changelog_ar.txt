@@ -1,4 +1,4 @@
-Version 1.90. Changelog:
+Version 1.95. Changelog:
 
 > Source code updated to: v9.5.8.0. 
 > Add Power Saving Mode: You can switch to Power Saving Mode or turn off autoplay, animations or effects separately in Settings > Power Saving.
