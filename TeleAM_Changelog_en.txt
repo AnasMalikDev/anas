@@ -1,11 +1,9 @@
-Version 1.00. Changelog:
+الإصدار 1.95 التغييرات:
 
-> Updated source code to v9.7.4.0.
-> Added Story
-> Option to hide 'Saved messages' button from menu.
-> Option to hide slash bot button in chat.
-> SHAREABLE CHAT FOLDERS: Share up to 200 chats with one invite link.
-> CUSTOM WALLPAPERS: Set an individual wallpaper for any 1-on-1 chat. Your chat partner can apply the same wallpaper or choose their own.
-> BETTER BOTS: Launch web apps from any chat. Web apps in groups support collaboration and multiplayer features.
-> OTHER IMPROVEMENTS: Better downloads and video playback, improved SD card and Bluetooth headset support.
-> Bug fixes and other minor improvements. 
+> تحديث كود المصدر إلى: v9.5.8.0.
+> اضافة وضع توفير الطاقة: يمكنك التبديل إلى وضع توفير الطاقة أو إيقاف تشغيل التشغيل التلقائي أو الرسوم المتحركة أو التأثيرات بشكل منفصل في قائمة الإعدادات> توفير الطاقة.
+> اضافة وقت القراءة في مجموعات صغيرة: في مجموعات تصل إلى 100 مشارك ، يمكنك الآن رؤية الوقت الذي تمت فيه قراءة الرسائل من قبل كل من المشاركين.
+> اضافة سرعة تشغيل دقيقة: يمكن الآن تشغيل مقاطع الفيديو والبودكاست ورسائل الصوت والفيديو بأي سرعة تتراوح من 0.2x إلى 2.5x باستخدام شريط التمرير.
+> اضافة خيار: لإخفاء زر "الرسائل المحفوظة" من القائمة.
+> اضافة خيار: لإخفاء زر مائل بوت في الدردشة.
+> إصلاحات: للأخطاء وتحسينات طفيفة أخرى.
