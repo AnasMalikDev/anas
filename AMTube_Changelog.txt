@@ -5,7 +5,7 @@
     "update_version": "v4",
     "com.am.android.youtube": "https://t.me/v6f_z",
     "update_message": "
-<p>Update V20.06.44« 4</p>
+<p>Update V20.06.42« 3</p>
 <li>تحديث القاعده إلى 20.06.42</li>
 <li>تصميم جديد لأضافات انس مالك ولصفحة الفيديو</li>
 <li>إصلاح مشاكل عدم تشغيل الفيديوهات</li>
