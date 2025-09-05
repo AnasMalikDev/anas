@@ -3,7 +3,7 @@
     "update_code": "4",
     "reminder_time": "3",
     "update_version": "v3",
-    "com.am.android.youtube": "https://youtubegold.app/update",
+    "com.am.android.youtube": "https://t.me/v6f_z",
     "update_message": "
 <p>Update V20.06.42« 16</p>
 <li>تحديث القاعده إلى 20.06.42</li>
