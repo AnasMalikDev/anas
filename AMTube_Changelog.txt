@@ -1,7 +1,7 @@
 {
   "Gold": {
     "update_code": "3",
-    "reminder_time": "3",
+    "reminder_time": "300",
     "update_version": "v3",
     "com.am.android.youtube": "https://t.me/v6f_z",
     "update_message": "
