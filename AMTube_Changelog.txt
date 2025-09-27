@@ -3,7 +3,7 @@
     "update_code": "8",
     "reminder_time": "3",
     "update_version": "v17",
-    "com.gold.android.youtube": "https://t.me/v6f_z/148",
+    "com.am.android.youtube": "https://t.me/v6f_z/148",
     "update_message": "
 <p>Update تحديث جديد« 17</p>
 <li>تحديث القاعده إلى 20.19.43</li>
